@@ -11,33 +11,32 @@ First deliverable to the theater outcomes based on the month and second delivera
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-<img src="Resources/Theater_Outcomes_vs_Launch.png" width="500">
-The most successfull is in May and slightly decreasing after. the fail
-The winter is more cancel months which oct-Dec. 
+!<img src="Resources/Theater_Outcomes_vs_Launch.png" width="500">
+Base on the line chart, the most successful of the campaigns is in May and is slightly decreasing after that. 
+Failed and Canceled of the campaigns are more likely occurred during winter time.
 
-### Analysis of Outcoames Based on Goals
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png).
-The less than 1000 goal is the most successful
-Fail the most at 45000 to 49999 goal
+### Analysis of Outcomes Based on Goals
+![Theater_Outcomes_vs_Launch](path/to/resources/Outcomes_vs_Goals.png).
+resources/Outcomes_vs_Goals.png
+According to the line chart,the most successful outcome is the goal setting at less than 1000 while the less successful outcome and the most failed outcome are the goal setting between 45000 to 49999. 
 
 ### Challenges and Difficulties Encountered
-Facing challenge in condition countsif statement at beginning and how to use git hub to upload
-And pictures contact the tutor
+There are serveral challenges and difficulties during analysis the project. First, the condition Countifs statement for analysis of Outcomes Based on Goals. Second, adding the pictures to GitHub and make sure there're displayed. At beginning, I got confused how to make the condition and got an error message. I've been trying and researched more to understand and be able to solve the problems. In addition, I scheduled for tutoring to assist and learn more techniques.
 
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-If you gonna run an event should run in...The most successful to run is in may and June, however the still also high potiencila to fail to.
+If you're planning to run fundraising event with successful result, you should run that in May and June; however, there still have high chance to fail or cancel. Furthermore, if you're planing to run during the winter time, do not recommend. 
 
 - What can you conclude about the Outcomes based on Goals?
-If you run the project should set goal for fundraising at less than 1000 and if is between 4500 to 49999 is not recommended
+If you run the fundraising event, you should set the goal at less than 1000 and if is between 4500 to 49999 is not recommended.
 
 
 - What are some limitations of this dataset?
-Bias, exclued some certain group. 
+The limitations of this dataset are self reported data that would lead to lack of reliable data and deficiencies in data measurments
 
 - What are some other possible tables and/or graphs that we could create?
-Compare base the countries ex. What's the best country at funraindsing
-What's the best parent cat get the most fund.?
+There are possible tables and/or graphs that we could create. Base on the country,For example, which country's the most successful fundraising? Base on the parent category, what's the best parent category get the most fund?
+
 
