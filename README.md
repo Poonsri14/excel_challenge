@@ -13,6 +13,7 @@ First deliverable to the theater outcomes based on the month and second delivera
 ### Analysis of Outcomes Based on Launch Date
 
 https://github.com/Poonsri14/excel_challenge/blob/main/resources/Theater_Outcomes_vs_Launch.png
+
 Base on the line chart, the most successful of the campaigns is in May and is slightly decreasing after that. Failed and Canceled of the campaigns are more likely occurred during winter time.
 
 ### Analysis of Outcomes Based on Goals
