@@ -5,7 +5,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 
 ### Purpose
 
-First deliverable to the theater outcomes based on the month and second deliverable to find the outcomes based on goals.
+First deliverable to the theater outcomes based on the months and second deliverable to find the outcomes based on goals.
 
 
 ## Analysis and Challenges
@@ -13,13 +13,14 @@ First deliverable to the theater outcomes based on the month and second delivera
 ### Analysis of Outcomes Based on Launch Date
 
 https://github.com/Poonsri14/excel_challenge/blob/main/resources/Theater_Outcomes_vs_Launch.png
-Base on the line chart, the most successful of the campaigns is in May and is slightly decreasing after that. Failed and Canceled of the campaigns are more likely occurred during winter time.
+
+Base on the line chart, the most successful of theater campaign is in May and is slightly decreasing after that. Failed and Canceled of the campaigns are more likely occurred during winter time.
 
 ### Analysis of Outcomes Based on Goals
 
 https://github.com/Poonsri14/excel_challenge/blob/main/resources/Outcomes_vs_Goals.png
 
-According to the line chart, the most successful theater outcome is the goal setting at less than 1000 while the less successful outcome and the most failed outcome are the goal setting between 45000 to 49999. 
+According to the line chart, the most successful outcome is the goal setting at less than 1000 while the less successful outcome and the most failed outcome are the goal setting between 45000 to 49999. 
 
 ### Challenges and Difficulties Encountered
 There are serveral challenges and difficulties during analysis the project. First, the condition Countifs statement for analysis of Outcomes Based on Goals. Second, adding the pictures to GitHub and make sure there're displayed. At beginning, I got confused how to make the condition and got an error message. I've been trying and researched more to understand and be able to solve the problems. In addition, I scheduled for tutoring to assist and learn more techniques.
@@ -28,10 +29,10 @@ There are serveral challenges and difficulties during analysis the project. Firs
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-If you're planning to run fundraising event with successful result, you should run that in May and June; however, there still have high chance to fail or cancel. Furthermore, if you're planing to run during the winter time, do not recommend. 
+If you're planning to run theater fundraising event with successful result, you should run that in May and June; however, there still have high chance to fail or cancel. Furthermore, if you're planing to run during the winter time, do not recommend. 
 
 - What can you conclude about the Outcomes based on Goals?
-If you run the fundraising event for theater, you should set the goal at less than 1000 and if is between 4500 to 49999 is not recommended.
+If you run the fundraising event, you should set the goal at less than 1000 and if is between 4500 to 49999 is not recommended.
 
 
 - What are some limitations of this dataset?
