@@ -29,16 +29,20 @@ There are serveral challenges and difficulties during analysis the project. Firs
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 If you're planning to run theater fundraising event with successful result, you should run that in May and June; however, there still have high chance to fail or cancel. Furthermore, if you're planing to run during the winter time, do not recommend. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 If you run the fundraising event, you should set the goal at less than 1000 and if is between 4500 to 49999 is not recommended.
-G
+
 
 - What are some limitations of this dataset?
+
 The limitations of this dataset are self reported data that would lead to lack of reliable data and deficiencies in data measurments
 
 - What are some other possible tables and/or graphs that we could create?
+
 There are possible tables and/or graphs that we could create. Base on the country,For example, which country's the most successful fundraising? Base on the parent category, what's the best parent category get the most fund?
 
 
