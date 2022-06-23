@@ -33,7 +33,7 @@ If you're planning to run theater fundraising event with successful result, you 
 
 - What can you conclude about the Outcomes based on Goals?
 If you run the fundraising event, you should set the goal at less than 1000 and if is between 4500 to 49999 is not recommended.
-
+G
 
 - What are some limitations of this dataset?
 The limitations of this dataset are self reported data that would lead to lack of reliable data and deficiencies in data measurments
