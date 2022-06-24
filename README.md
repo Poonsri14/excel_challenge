@@ -12,13 +12,13 @@ First deliverable to the theater outcomes based on the months and second deliver
 
 ### Analysis of Outcomes Based on Launch Date
 
-https://github.com/Poonsri14/excel_challenge/blob/main/resources/Theater_Outcomes_vs_Launch.png
+![Theater Outcomes based on Launch Date](https://github.com/Poonsri14/excel_challenge/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 Base on the line chart, the most successful of theater campaign is in May and is slightly decreasing after that. Failed and Canceled of the campaigns are more likely occurred during winter time.
 
 ### Analysis of Outcomes Based on Goals
 
-https://github.com/Poonsri14/excel_challenge/blob/main/resources/Outcomes_vs_Goals.png
+![Outcomes vs Goals](https://github.com/Poonsri14/excel_challenge/blob/main/resources/Outcomes_vs_Goals.png)
 
 According to the line chart, the most successful outcome is the goal setting at less than 1000 while the less successful outcome and the most failed outcome are the goal setting between 45000 to 49999. 
 
