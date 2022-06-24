@@ -43,6 +43,6 @@ The limitations of this dataset are self reported data that would lead to lack o
 
 - What are some other possible tables and/or graphs that we could create?
 
-There are possible tables and/or graphs that we could create. Base on the country,For example, which country's the most successful fundraising? Base on the parent category, what's the best parent category get the most fund?
+There are possible tables and/or graphs that we could create. For example, Base on the contry, which country's the most successful fundraising? or base on the parent category, what's the best parent category get the most fund?
 
 
