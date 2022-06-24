@@ -23,7 +23,8 @@ Base on the line chart, the most successful of theater campaign is in May and is
 According to the line chart, the most successful outcome is the goal setting at less than 1000 while the less successful outcome and the most failed outcome are the goal setting between 45000 to 49999. 
 
 ### Challenges and Difficulties Encountered
-There are serveral challenges and difficulties during analysis the project. First, the condition Countifs statement for analysis of Outcomes Based on Goals. Second, adding the pictures to GitHub and make sure there're displayed. At beginning, I got confused how to make the condition and got an error message. I've been trying and researched more to understand and be able to solve the problems. In addition, I scheduled for tutoring to assist and learn more techniques.
+There are serveral challenges and difficulties during analysis the project. First, the condition Countifs statement for analysis of Outcomes Based on Goals. Second, adding the pictures to GitHub and make sure there're displayed. Lastly, how to adding the modified file by using the code.
+At beginning, I got confused how to make the condition and got an error message. I've been trying and researched more to understand and be able to solve the problems. In addition, I scheduled for tutoring to assist me with adding the pictures and using Git Code. I've learned more techniques and can work on my project.
 
 
 ## Results
